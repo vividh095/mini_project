@@ -19,5 +19,5 @@ This is a C mini project i.e Library Management System. It is implemented using 
 This project is used as:
 
 - Library Management System
-- Record Management System
+
 
